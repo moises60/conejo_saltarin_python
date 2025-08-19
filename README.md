@@ -1,4 +1,4 @@
-# Conejo Saltarín 🐇
+# Rabbit Game 🐇
 
 ![Conejo Saltarín Banner](assets/conejo_saltarin_banner.png)
 
@@ -41,3 +41,4 @@
     
 ### Ejecutar el Juego
     python3 main.py
+
